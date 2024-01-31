@@ -3,8 +3,11 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alvaroleal-dev.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-leal/) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroleal27815@gmail.com) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/AlvaroLeal)
 
-![Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=ALVAROLEAL77&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALVAROLEAL77&layout=compact)
+<div>
+<img  src='https://github-readme-stats.vercel.app/api?username=ALVAROLEAL77&show_icons=true&theme=tokyonight'>
+<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=ALVAROLEAL77&layout=compact'>
+</div>
+
 
 ## Tecnologias que eu uso no meu dia 
 
